@@ -3,6 +3,9 @@
 ### Introduction
 I've built this dice game project when I was practising learning DOM and coding with JavaScript. 
 
+###
+Live Site: (https://ceydasuzer.github.io/basic-dice-game/)
+
 ### Technologies
 * HTML
 * CSS
